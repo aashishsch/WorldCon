@@ -1,13 +1,13 @@
 const templates = {
-  "template1.jpg": {
-    imageX: 198,
-    imageY: 650,
-    radius: 342.5,
-    imageSize: 685,
-    textX: 540,
-    textY: 1465,
-    fontSize: 75,
-    fontColor: "#9e6f6d",
+"template1.jpg": {
+    imageX: 275,
+    imageY: 820,
+    radius: 265,
+    imageSize: 530,
+    textX: 535,
+    textY: 1447,
+    fontSize: 85,
+    fontColor: "#ffffff",
     fontFamily: "Arial"
   },
   "template2.jpg": {
